@@ -1,0 +1,46 @@
+DIAG SET1 Aerosol: JJA MEANS GLOBAL < 200hPa
+ 
+TEST CASE: C96_t233_wg37.B1850C_LTso.taiesm2_dev_3b09.tn01_auto30_a2l30 (yrs 6-10)
+ 
+CONTROL CASE: 
+ 
+Variable     C96_t233_wg37.B1850C_LTso.taiesm2_dev_3b09.tn01_auto30_a2l30                      C96_t233_wg37.B1850C_LTso.taiesm2_dev_3b09.tn01_auto30_a2l30-
+missing
+POM_BURDEN (TgC)             0.399            -999.000             0.000
+POM_EMIS (TgC/yr)           32.830            -999.000             0.000
+POM_DRYDEP (TgC/yr)          9.918            -999.000             0.000
+POM_WETDEP (TgC/yr)        -21.484            -999.000             0.000
+POM_CHMP (TgC/yr)            0.000            -999.000             0.000
+POM_LIFETIME (days)          4.643            -999.000             0.000
+SOA_BURDEN (TgC)             0.713            -999.000             0.000
+SOA_EMIS (TgC/yr)            0.000            -999.000             0.000
+SOA_DRYDEP (TgC/yr)          4.426            -999.000             0.000
+SOA_WETDEP (TgC/yr)        -50.146            -999.000             0.000
+SOA_CHMP (TgC/yr)            0.000            -999.000             0.000
+SOA_LIFETIME (days)          0.713            -999.000             0.000
+BC_BURDEN (TgC)              0.037            -999.000             0.000
+BC_EMIS (TgC/yr)             2.787            -999.000             0.000
+BC_DRYDEP (TgC/yr)           0.829            -999.000             0.000
+BC_WETDEP (TgC/yr)          -1.847            -999.000             0.000
+BC_CHMP (TgC/yr)             0.000            -999.000             0.000
+BC_LIFETIME (days)           5.069            -999.000             0.000
+DUST_BURDEN (TgC)           29.948            -999.000             0.000
+DUST_EMIS (TgC/yr)        3695.381            -999.000             0.000
+DUST_DRYDEP (TgC/yr)      2073.326            -999.000             0.000
+DUST_WETDEP (TgC/yr)     -1608.170            -999.000             0.000
+DUST_CHMP (TgC/yr)           0.000            -999.000             0.000
+DUST_LIFETIME (days)         2.969            -999.000             0.000
+SALT_BURDEN (TgC)            4.921            -999.000             0.000
+SALT_EMIS (TgC/yr)        4176.142            -999.000             0.000
+SALT_DRYDEP (TgC/yr)      1204.636            -999.000             0.000
+SALT_WETDEP (TgC/yr)     -2955.375            -999.000             0.000
+SALT_CHMP (TgC/yr)           0.000            -999.000             0.000
+SALT_LIFETIME (days)         0.432            -999.000             0.000
+SO4_BURDEN (TgS)             0.243            -999.000             0.000
+SO4_EMIS (TgS/yr)            0.375            -999.000             0.000
+SO4_DRYDEP (TgS/yr)          1.781            -999.000             0.000
+SO4_WETDEP (TgS/yr)        -12.048            -999.000             0.000
+SO4_CHMP (TgS/yr)            0.000            -999.000             0.000
+SO4_AQ_PROD (TgS/yr)         0.000            -999.000             0.000
+SO4_TOTAL_PROD (TgS/yr)      0.000            -999.000             0.000
+SO4_LIFETIME (days)          6.420            -999.000             0.000

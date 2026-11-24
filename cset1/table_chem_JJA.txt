@@ -1,0 +1,39 @@
+DIAG SET1 Chemistry: JJA MEANS GLOBAL for O3 < 150ppb
+ 
+TEST CASE: C96_t233_wg37.B1850C_LTso.taiesm2_dev_3b09.tn01_auto30_a2l30 (yrs 6-10)
+ 
+CONTROL CASE: 
+ 
+Variable     C96_t233_wg37.B1850C_LTso.taiesm2_dev_3b09.tn01_auto30_a2l30                      C96_t233_wg37.B1850C_LTso.taiesm2_dev_3b09.tn01_auto30_a2l30-
+missing
+CH4_BURDEN (Tg)              0.000               0.000             0.000
+CH4_EMIS (Tg/yr)             0.000               0.000             0.000
+CH4_TDEP (Tg/yr)             0.000               0.000             0.000
+CH4_CHEM_LOSS (Tg/yr)        0.000               0.000             0.000
+CH4_LIFETIME (yr)            0.000               0.000             0.000
+CH3CCL3_BURDEN (Tg)          0.000               0.000             0.000
+CH3CCL3_EMIS (Tg/yr)         0.000               0.000             0.000
+CH3CCL3_TDEP (Tg/yr)         0.000               0.000             0.000
+CH3CCL3_CHEM_LOSS (Tg/yr)    0.000               0.000             0.000
+CH3CCL3_LIFETIME (yr)        0.000               0.000             0.000
+CO_BURDEN (Tg)               0.000               0.000             0.000
+CO_EMIS (Tg/yr)              0.000               0.000             0.000
+CO_TDEP (Tg/yr)              0.000               0.000             0.000
+CO_CHEM_LOSS (Tg/yr)         0.000               0.000             0.000
+CO_LIFETIME (yr)             0.000               0.000             0.000
+O3_BURDEN (Tg)               0.000               0.000             0.000
+O3_EMIS (Tg/yr)              0.000               0.000             0.000
+O3_TDEP (Tg/yr)              0.000               0.000             0.000
+O3_CHEM_LOSS (Tg/yr)         0.000               0.000             0.000
+O3_LIFETIME (yr)             0.000               0.000             0.000
+O3_CHEM Prod (Tg/yr)         0.000               0.000             0.000
+O3_NET_CHEM_CHANGE (Tg/yr)   0.000               0.000             0.000
+O3_STE (Tg/yr)               0.000               0.000             0.000
+O3 Strat BURDEN (Tg/yr)      0.000               0.000             0.000
+ISOP_EMIS (Tg/yr)            0.000               0.000             0.000
+Monoterpene_EMIS (Tg/yr)     0.000               0.000             0.000
+Methanol_EMIS (Tg/yr)        0.000               0.000             0.000
+Aceton_EMIS (Tg/yr)          0.000               0.000             0.000
+LNO_PROD (TgN/yr)            0.000               0.000             0.000
+Total optical depth          0.077               0.000             0.000
+DUST optical depth           0.000               0.000             0.000
